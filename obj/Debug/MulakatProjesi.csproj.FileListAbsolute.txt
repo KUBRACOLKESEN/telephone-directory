@@ -1,0 +1,16 @@
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\MulakatProjesi.exe.config
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\MulakatProjesi.exe
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\MulakatProjesi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.csproj.AssemblyReference.cache
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.Form1.resources
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.Properties.Resources.resources
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.csproj.GenerateResource.cache
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.csproj.CoreCompileInputs.cache
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.exe
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.pdb
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\EntityFramework.dll
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\EntityFramework.xml
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kubra\OneDrive\Masaüstü\MulakatProjesi\MulakatProjesi\obj\Debug\MulakatProjesi.csproj.CopyComplete
